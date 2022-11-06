@@ -1,17 +1,14 @@
 body {
-    width: 310px;
-    margin: auto;
+    @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500&display=swap');
+    margin: 10x;
     font-size: 16px;
-    font-family: 'Josefin Sans';
+    font-family: 'Josefin Sans', sans-serif;
     font-style: normal;
     font-weight: 500;
     color: rgb(70, 70, 70);
 }
 .text {
-    border: 2px solid rgb(75, 178, 247);
+    border: 2px solid rgb(108, 207, 231);
     padding: 25px;
     border-radius: 25px;
-}
-h1 {
-    font-size: 20px;
 }
